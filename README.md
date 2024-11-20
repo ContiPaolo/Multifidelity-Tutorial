@@ -2,6 +2,7 @@
 Tutorial for multi-fidelity regression and multi-fidelity reduced-order modeling of Burger's equation.
 
 [Tutorial (trace)](https://colab.research.google.com/github/ContiPaolo/Multifidelity-Tutorial/blob/main/Tutorial_Multi_Fidelity_(trace).ipynb#scrollTo=P6aCPRjCM0ZZ)
+
 [Tutorial (solution)](https://colab.research.google.com/github/ContiPaolo/Multifidelity-Tutorial/blob/main/Tutorial_Multi_Fidelity_(solution).ipynb#scrollTo=JwVPQmFEpVkc)
 
 @ Computational Statistics, Polytechnic University of Milan, 2024.
