@@ -6,6 +6,7 @@ Tutorial for multi-fidelity regression and multi-fidelity reduced-order modeling
 [Tutorial (solution)](https://colab.research.google.com/github/ContiPaolo/Multifidelity-Tutorial/blob/main/Tutorial_Multi_Fidelity_(solution).ipynb#scrollTo=JwVPQmFEpVkc)
 
 @ Scientific Machine Learning and Dynamical Systems autumn school, CWI | Amsterdam, 2023
+
 @ Computational Statistics, Polytechnic University of Milan | Milan,  2024.
 
 
